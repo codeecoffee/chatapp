@@ -1,2 +1,4 @@
 #Ignoring Gitscript
 NewRepo.sh
+/backend/node_modules
+/client/node_modules
