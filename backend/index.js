@@ -8,7 +8,9 @@ const io = socketio(server)
 const PORT = process.env.PORT || 5000
 
 io.on('connection',(socket)=>{
-  console.log('new connection')
+  socket.on('join', ({name, room}, callback)=>{
+    
+  })
   socket.on('disconnect',()=>{
     console.log('User left')
   })
