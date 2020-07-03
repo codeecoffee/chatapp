@@ -1,4 +1,5 @@
 #Ignoring Gitscript
 NewRepo.sh
 node_modules/
+backend/
 notes.md
