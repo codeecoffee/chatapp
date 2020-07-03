@@ -16,7 +16,7 @@ $ yarn install
 Insert your name and create a chatroom and have fun making new friends!
 
 ## Dependencies and technologies:
-### back end
+### back end [repository][repo]
 1. NodeJS
 2. socket.io
 3. Express
@@ -31,4 +31,5 @@ Insert your name and create a chatroom and have fun making new friends!
 5. react-emoji
 6. query-string
 
+[repo]:https://github.com/codeecoffee/chatapp-backend
 [liveversion]:https://5efe251308a6c3626f035915--vibrant-bhaskara-287957.netlify.app/
